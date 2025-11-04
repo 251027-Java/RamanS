@@ -30,9 +30,9 @@ public class Main {
         System.out.println(expenses);
 
         // THIS is where we switch our Repository from one to another
-        //IRepository repo = new TextRepository();
+        IRepository repo = new TextRepository();
         //IRepository repo = new CSVRepository();
-        IRepository repo = new JSONRepository();
+        //IRepository repo = new JSONRepository();
 
         repo.saveExpenses(expenses);
 

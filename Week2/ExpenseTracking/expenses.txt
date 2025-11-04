@@ -1,0 +1,1 @@
+[org.example.Expense [id = 1, date = Tue Nov 04 15:18:03 CST 2025 , value = 99.95, merchant = Walmart], org.example.Expense [id = 2, date = Tue Nov 04 15:18:03 CST 2025 , value = 87.75, merchant = Costco], org.example.Expense [id = 3, date = Tue Nov 04 15:18:03 CST 2025 , value = 10000.0, merchant = Private Jet]]
