@@ -1,0 +1,9 @@
+Abstraction
+Polymorphism
+	- Overloading and Overriding.
+	- Overloading is when there are multiple methods (constructors) with different parameters but the same name (in the same class).
+	- Overriding is when a method from a parent class and the child class also has the method that has the same name, same parameter list, same return type, but a different behavior.
+	- Overriding example: dog barks but cat meows but we can call the speak function for both but they have different print statements depending of it the animal is a dog or a cat.
+Inheritance
+Encapsulation
+
