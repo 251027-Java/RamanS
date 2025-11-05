@@ -20,3 +20,8 @@ Second normal form -
 
 Third normal form -
 3NF - Nothing But The Key
+
+DQL - Data Query Language
+DML - Data Manipulation Language
+DDL - Data Definition Language
+DCL - Data Control Language
