@@ -1,0 +1,22 @@
+SQL and Database:
+
+Structured Query Language
+
+Primary Key: The unique identifier for each entry (2 constraints: has to be unqiue and not null)
+
+Foreign Key: 
+
+Candidate Key: Anything that COULD be a unique identifier for an entry
+
+Composite Key: A combination of two or more candidate keys. (Example: Search for both House number and Street Address for a value)
+
+Atomic Data: Standalone data (smallest individual piece/separation)
+
+First normal form - every table has a primary key (and is atomic)
+1NF - The Key
+
+Second normal form - 
+2NF - The Whole Key
+
+Third normal form -
+3NF - Nothing But The Key
