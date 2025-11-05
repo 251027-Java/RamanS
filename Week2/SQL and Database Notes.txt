@@ -25,3 +25,15 @@ DQL - Data Query Language
 DML - Data Manipulation Language
 DDL - Data Definition Language
 DCL - Data Control Language
+
+Single line comment can be done using --
+Multi line comment can be done using /* */
+
+DQL - Data Query Language
+Key words:
+	- SELECT: Retrieve data, select the columns from the resulting set
+	- FROM: The table(s) to retrieve data from
+	- WHERE: A condition filter of the dta
+	- GROUP BY: Group data based on one or more columns
+	- HAVING: A conditional filter of the grouped data
+	- ORDER BY: Sort the data
