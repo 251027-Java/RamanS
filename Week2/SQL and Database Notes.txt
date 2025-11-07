@@ -1,6 +1,7 @@
 SQL and Database:
 
-Structured Query Language
+Structured Query Language - SQL is used to interact with the database, and has many different dialets, or languages.
+			  - Each dialet will have some quirks on what keywords are available, or how it handles data types, etc.
 
 Primary Key: The unique identifier for each entry (2 constraints: has to be unqiue and not null)
 
@@ -21,10 +22,19 @@ Second normal form -
 Third normal form -
 3NF - Nothing But The Key
 
+ALL SQL dialects leverage the same faciliites of sub-language. They're groups of commands to help us perform different types of actions:
+
 DQL - Data Query Language
-DML - Data Manipulation Language
+- DQL is used to retrieve data from the database.
+
 DDL - Data Definition Language
+- DDL is used help us define the structure of the database and the tables in it.
+
+DML - Data Manipulation Language
+- DML is used to perofrm actions on the data in the database.
+
 DCL - Data Control Language
+- DCL is used to control access to the database.
 
 Single line comment can be done using --
 Multi line comment can be done using /* */
@@ -37,3 +47,6 @@ Key words:
 	- GROUP BY: Group data based on one or more columns
 	- HAVING: A conditional filter of the grouped data
 	- ORDER BY: Sort the data
+
+DDL helps us define the structure, not the data.
+It will focus on creating, modifying, and deleting the tables in the database.
