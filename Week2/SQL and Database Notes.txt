@@ -70,3 +70,4 @@ CREATE TABLE - creates a new table in the database
 ALTER TABLE - modifiews the structure of a table
 DROP TABLE - deletes a table from the database
 
+DML
