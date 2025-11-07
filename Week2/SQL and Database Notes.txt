@@ -50,3 +50,23 @@ Key words:
 
 DDL helps us define the structure, not the data.
 It will focus on creating, modifying, and deleting the tables in the database.
+Remember that the table will set the rules for what data it can contain, or what requirements the data must meet.
+
+Common command structure is:
+[VERB] [NOUN] [Specifics]
+
+VERBS:
+CREATE - creates a new object in the database
+ALTER - modifies the structure of an object in the database
+DROP - deletes an object from the database
+
+NOUNS:
+DATABASE - a container for a collection of related data
+SCHEMA - a container for a collection of related tables
+TABLE - a collection of related data
+CONSTRAINT - a rule that applies to the data in a table
+
+CREATE TABLE - creates a new table in the database
+ALTER TABLE - modifiews the structure of a table
+DROP TABLE - deletes a table from the database
+
